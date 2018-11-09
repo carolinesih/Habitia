@@ -17,8 +17,41 @@ Scope: The scope is more for individual users than for groups of people at at ti
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can add new habits to track
+ * User can decide which notifications they want alerts for
+ * User can decide what time of day they want said notifs
+
+**Optional Nice-to-have Stories**
+
+ * User can remove unwanted habits
+ * User can create an account
+
+## 2. Screen Archetypes
+
+ * Home Screen - Creation Archetype
+     * holds list of all active habits
+     * has button to create new habit
+     * each habit can be moved, edited, and deleted
+ * Calendar
+     * shows habit streaks with a customizeable color for each habit
+ * Add/Edit Habit Screen
+     * has customizable features: if user wants notifications turned on, what time of day notification will go off, can be every day, a sequence of days (ex. every other day) or per week basis (every Tues/Thurs).
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home Screen
+ * Calendar View
+
+**Flow Navigation** (Screen to Screen)
+
+ * Add a New Habit/Edit Habit Screen
 
 ---
 
